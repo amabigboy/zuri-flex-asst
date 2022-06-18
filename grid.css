@@ -15,7 +15,9 @@ main {
     display: grid;
     grid-template-areas: 
     'a a b'
-    'c d e'
+    'a a b'
+    'c d d'
+    'c e e'
     ;
     gap: 15px;
     margin: auto;
